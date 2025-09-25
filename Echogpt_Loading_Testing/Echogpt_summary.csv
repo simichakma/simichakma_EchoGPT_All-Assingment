@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+echogpt,100,302,232,1269,139.38,0.000%,2.01613,133.72,0.45,67916.0
+image-generator,100,165,136,308,26.05,0.000%,2.06152,136.73,0.52,67916.0
+TOTAL,200,234,136,1269,121.52,0.000%,4.01768,266.47,0.95,67916.0
